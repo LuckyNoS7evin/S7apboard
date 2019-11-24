@@ -1,0 +1,13 @@
+{
+    "time_between_flaps": 30,
+    "streamlabs": {
+        "socket_token": "",
+        "api_token": ""
+    },
+    "strings": [
+        "This is an example of a string that we want to display",
+        "This is the next string in the process, lets keep this moving",
+        "This is a 3rd one which we are going to repeat a few times to make it longer. This is a 3rd one which we are going to repeat a few times to make it longer. This is a 3rd one which we are going to repeat a few times to make it longer.",
+        "Streamlabels are available I need to show people how to use them in strings.... so they update on next run through"
+    ]
+}
