@@ -234,7 +234,6 @@ body {
   padding: 0;
   margin: 0;
   list-style: none;
-  /* border: 4px solid tomato; */
   background-color: #222;
   padding-bottom:5px;
   padding-left:5px;
@@ -249,7 +248,6 @@ body {
   flex-wrap: wrap;
 }
 .letter {
-  /* background: tomato; */
   padding: 0px;
   padding-right:5px;
   padding-top:5px;
@@ -269,7 +267,6 @@ body {
 }
 
 .splitflap {
- /* position: relative;*/
   min-width: 25px;
   height: 25px;
   margin-right: 5px;
@@ -293,7 +290,6 @@ body {
   position: relative;
   height: 50%;
   width: 100%;
-  /*background-color: #3BB6EB;*/
   background-color: #000;
   border-radius: 5px 5px 0 0;
   overflow: hidden;
